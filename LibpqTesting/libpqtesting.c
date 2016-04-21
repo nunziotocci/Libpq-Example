@@ -57,7 +57,5 @@ int main(int argc, char *argv[]) {
 
 	PQfinish(conn);
 
-	getchar();
-
 	return 0;
 }
